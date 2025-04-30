@@ -49,8 +49,6 @@ Visual storytelling is engaging, but not always accessible. **ComicSonic** conve
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/comicsonic.git
-
 # Frontend Setup
 cd frontend
 npm install
@@ -74,4 +72,4 @@ python app.py
 
 ## 📜 License
 
-This project is for educational and demo purposes only. Please respect copyright laws when uploading comic materials.
+This project is for educational purposes only. Please respect copyright laws when uploading comic materials.
