@@ -2,6 +2,8 @@
 
 A hackathon-built web application that transforms **Manhwa and Comic Book PDFs** into immersive **AI-powered audio narrations**, providing a new medium for storytelling — especially for users who prefer listening over reading. 🚀
 
+![Home](https://github.com/user-attachments/assets/94581c91-8a31-4401-880b-467c31a0da83)
+
 
 ## 📖 What is This Project About?
 
